@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "nodeunit": "^0.11.3",
-    "underscore": "1.4.x",
+    "underscore": "1.12.x",
     "temp": "0.4.x"
   },
   "optionalDependencies": {
